@@ -1,0 +1,18 @@
+maini
+
+luo meno
+näytä kaikki menot
+hae päivänmäärä
+tallenna
+lue tiedosto
+pylväs
+
+
+meno
+
+getterit setterit 
+constructori
+
+
+gui
+
